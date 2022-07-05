@@ -9,3 +9,5 @@ Config files (Lua):
 
 Ant Config - Agents movement settings    
 Window Config - Simulation config screen size,fps    
+
+![Animation](https://github.com/SlawekSt/PICalculator/blob/main/Animation.gif)
